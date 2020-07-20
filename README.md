@@ -1,4 +1,5 @@
 ### Hi there 👋
+[](https://media.giphy.com/media/Nfg4l6AYarCBG/giphy.gif)
 
 <!--
 **trueparallels/trueparallels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
