@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![hello](https://media.giphy.com/media/Nfg4l6AYarCBG/giphy.gif)
 
+Avatar photo courtesy of [Lucas Benjamin on Unsplash](https://unsplash.com/photos/wQLAGv4_OYs)
+
 <!--
 **trueparallels/trueparallels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
